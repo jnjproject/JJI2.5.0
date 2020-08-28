@@ -1,4 +1,4 @@
-scenerio: country Switcher tool and Flag icon for all languages story 
+scenerio: country Switcher tool and Flag icon for all languages New story 
 
 Meta:
     @group regression

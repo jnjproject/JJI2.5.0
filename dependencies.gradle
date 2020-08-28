@@ -1,0 +1,10 @@
+ext {
+    hyperionVersion = '0.72.3'
+}
+
+dependencies {
+    implementation(group: 'com.asdna.aste', name: 'hyperion', version: hyperionVersion)
+    implementation(group: 'com.asdna.aste', name: 'plugin-web-integration', version: '3.3.1')
+    implementation(group: 'com.asdna.aste', name: 'plugin-web-ui', version: hyperionVersion)
+    implementation(group: 'com.asdna.aste', name: 'plugin-web-video-js', version: hyperionVersion)
+}
